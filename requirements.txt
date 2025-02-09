@@ -1,0 +1,8 @@
+gradio
+torch
+opencv-python
+numpy
+pandas
+scipy
+tqdm
+xgboost
