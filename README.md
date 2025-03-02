@@ -16,7 +16,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 # **Breathing Rate Estimation and Anomaly Detection from Video Data**  
 📌 *Deep Learning-Based Non-Contact Respiratory Monitoring*  
 
-![Breathing Rate Estimation]([!https://user-images.githubusercontent.com/your-image.png](https://raw.githubusercontent.com/Abdullah-Nasir-Chowdhury/Apnea-Detector/refs/heads/main/images/3.jpeg)) 
+![Breathing Rate Estimation]([!https://raw.githubusercontent.com/Abdullah-Nasir-Chowdhury/Apnea-Detector/refs/heads/main/images/3.jpeg)) 
 ## 🚀 **Introduction**  
 Breathing rate (*bpm - breaths per minute*) is a crucial health indicator. Traditional methods require **wearable sensors**, which can be uncomfortable. This project explores a **non-contact, video-based approach** using deep learning and time series forecasting to estimate **bpm from chest movement** and detect anomalies in respiratory patterns.  
 
