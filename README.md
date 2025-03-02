@@ -12,6 +12,7 @@ short_description: Detect Bradypnea, Tachypnea, Apnea, Normal breathing rate.
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the model at https://huggingface.co/spaces/AbdullahNasir/Apnea-Detector
 
 # **Breathing Rate Estimation and Anomaly Detection from Video Data**  
 📌 *Deep Learning-Based Non-Contact Respiratory Monitoring*  
