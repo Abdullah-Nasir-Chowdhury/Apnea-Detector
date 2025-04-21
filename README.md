@@ -13,6 +13,7 @@ short_description: Detect Bradypnea, Tachypnea, Apnea, Normal breathing rate.
 
 - Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 - Check out the model at https://huggingface.co/spaces/AbdullahNasir/Apnea-Detector
+- Check out the video here https://www.youtube.com/watch?v=G2h5vp80e2s&ab_channel=Abdulla%27sJourney
 
 # **Breathing Rate Estimation, Apnea, and Anomaly Detection from Video Data**  
 Breathing rate (*bpm - breaths per minute*) is a crucial health indicator. Traditional methods require **wearable sensors**, which can be uncomfortable. This project explores a **non-contact, video-based approach** using deep learning and time series forecasting to estimate **bpm from chest movement** and detect anomalies in respiratory patterns. We detect apnea here and find anomalies in Breathing rate. 
